@@ -1,16 +1,16 @@
 {
-  "name": "clonebot-ui",
+  "name": "clonebotaz-ui",
   "description": "Telegram's best Open Source ALL-In-One Multi Purpose RoBot. Create your Fork now.",
   "keywords": ["telegram", "best", "Media", "cloning", "copying", "robot"],
   "logo": "https://cdn.dribbble.com/users/1658045/screenshots/4999712/clonelogo-01.png",
-  "website": "https://github.com/m4mallu/conebot",
-  "repository": "https://github.com/Your-Fork-URL",
+  "website": "https://github.com/az1176/clonebot",
+  "repository": "https://github.com/az1176/clonebot",
   "env": {
-        "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
-        "TG_BOT_TOKEN": {"description": "Get Bot Token From BotFather Bot","required": true},
-        "TG_USER_SESSION": {"description": "String Session from an admin user. Go to: t.ly/GxsB ","required": true},
-        "AUTH_USERS": {"description": "User ids of authorized users separated by space", "required": false},
+        "APP_ID": {"description": "1097629", "required": true},
+        "API_HASH": {"description": "f059ddf480a6a8c522f49f58ab37cdca" , "required": true},
+        "TG_BOT_TOKEN": {"description": "1323794034:AAFSY_pINifnit6UdxNy2LN1_MWyLIRik2w","required": true},
+        "TG_USER_SESSION": {"BABbJSKftAbhhos9gjqa7y9fiIllGj7cqGX44I0lpDPg8qdxfi0qJehDEIEhZndS8YXw37zG43YUnQVCWsEOOxV61_GKAsIcGZeXZjimgJLEIbSeqOY3jtgRLU7VnOo9ALP0URnSoqBCE9cU2iQ8sFXk_Pf5KTK34tnv-mqDMuvujXieC83YddNXhpdVvQ1iA8jzBtKIIe-W7ggLxG4y_fHYHekqPjixou1w747g3atZTZQpaVZE5OMa0ZOK17DRajU7BEaBZVnGgrf1fMWgcWv4xgtK9wdX6zQuv6esC6NhL_-IBqkRXSRh3ZEJ1dmMRn3ooJg5dwkYitr9KJu8oyHITud-cgE ","required": true},
+        "AUTH_USERS": {"description": "2899045", "required": false},
         "ENV": {"description": "Set this to ANYTHING","value": "ANYTHING"}
   },
   "addons": [
